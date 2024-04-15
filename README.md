@@ -2,6 +2,8 @@
 
 ## Meu Nome é André Fernando Cruz da Silva e meu apelido é "Felix"!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrefernandocruz&theme=aura&show_icons=true)
+
+
 --🎒 Estou aprendendo --
 
  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" width="40" heigth="40" />  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" heigth="40" />  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" heigth="40" />
