@@ -1,7 +1,7 @@
 # Ola! Bem Vindo ao meu Perfil do GitHub!
 
 ## Meu Nome é André Fernando Cruz da Silva e meu apelido é "Felix"!
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrefernandocruz&theme=aura&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrefernandocruz)](https://github.com/andrefernandocruz/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrefernandocruz&theme=aura&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andrefernandocruz&theme=aura&layout=donut)](https://github.com/andrefernandocruz/github-readme-stats)
 
 
 
