@@ -14,8 +14,6 @@
 
  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" width="40" heigth="40" />  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="40" heigth="40" />
 
-![Snake animation](https://github.com/seu-usuário-aqui/andrefernandocruz/blob/output/github-contribution-grid-snake.svg)
-
 --📞 Contato --
 <div>
 <a href = "mailto:contato@andrefernandocruzdasilva"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
